@@ -1,0 +1,39 @@
+body {
+	background-color: #191970;
+}
+/* this is powderblue */
+.title {
+	font-size: 70px;
+	font-family: Didot;
+	color: #B0E0E6;
+}
+/* this is royal blue*/
+.subtitle {
+	font-size: 30px;
+	font-family: Didot;
+	color: #4169E1;
+}
+/* this is cornflowerblue */
+.paragraph {
+	font-size: 20px;
+	font-family: Didot;
+	color: #6495ED;
+}
+/* this is cornflowerblue */
+.list {
+	font-size: 15px;
+	font-family: Didot;
+	color: #6495ED;
+}
+/* this is skyblue */
+.imagecaption {
+	font-size: 15px;
+	font-family: Didot;
+	color: #87CEEB;
+}
+/* this is cornflowerblue */
+.undertitle {
+	font-size: 17px;
+	font-family: Didot;
+	color: #6495ED;
+}
