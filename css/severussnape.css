@@ -1,39 +1,44 @@
 body {
 	background-color: #191970;
+	margin: 0;
+	font-family: 'Shadows Into Light', cursive;
+}
+/* this is steelblue */
+header {
+	background-color: #4682B4;
+	text-align: center;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+/* powderblue */
+header img {
+	border-radius: 150px;
+	width: 300px;
+	border: 10px solid #B0E0E6;
 }
 /* this is powderblue */
 .title {
 	font-size: 70px;
-	font-family: Didot;
 	color: #B0E0E6;
 }
 /* this is royal blue*/
 .subtitle {
 	font-size: 30px;
-	font-family: Didot;
 	color: #4169E1;
 }
 /* this is cornflowerblue */
-.paragraph {
+.paragraph, list {
 	font-size: 20px;
-	font-family: Didot;
 	color: #6495ED;
-}
-/* this is cornflowerblue */
-.list {
-	font-size: 15px;
-	font-family: Didot;
-	color: #6495ED;
+	width: 970px;
 }
 /* this is skyblue */
 .imagecaption {
-	font-size: 15px;
-	font-family: Didot;
+	font-size: 16px;
 	color: #87CEEB;
 }
 /* this is cornflowerblue */
 .undertitle {
 	font-size: 17px;
-	font-family: Didot;
 	color: #6495ED;
 }
