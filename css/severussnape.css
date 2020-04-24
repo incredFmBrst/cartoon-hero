@@ -2,19 +2,35 @@ body {
 	background-color: #191970;
 	margin: 0;
 	font-family: 'Shadows Into Light', cursive;
+	line-height: 30px;
+	padding-top: 50px;
 }
 /* this is steelblue */
 header {
 	background-color: #4682B4;
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 50px;
 }
 /* powderblue */
 header img {
 	border-radius: 150px;
-	width: 300px;
+	width: 30%;
 	border: 10px solid #B0E0E6;
+}
+main {
+	padding: 0 20px;
+}
+/* this is cornflowerblue */
+a {
+	color: #6495ED;
+}
+/* this is darkturquoise */
+a:hover {
+	color:#00CED1;
+}
+footer {
+	background-color: #4682B4;
+	text-align: center;
+	padding-top: 50px;
 }
 /* this is powderblue */
 .title {
@@ -25,12 +41,13 @@ header img {
 .subtitle {
 	font-size: 30px;
 	color: #4169E1;
+	background-color: #87CEEB;
 }
 /* this is cornflowerblue */
-.paragraph, list {
+.paragraph {
 	font-size: 20px;
 	color: #6495ED;
-	width: 970px;
+	width: 95%;
 }
 /* this is skyblue */
 .imagecaption {
