@@ -1,6 +1,11 @@
 header {
-	font-family: 'Shadows Into Light', cursive;
+	font-family: Didot, cursive;
 }
 .title {
-	font-family: ; 
+	font-family: Bangers; 
+	font-size: 50px;
+}
+.paragraph {
+	font-family: Arial;
+	font-size: 20px;
 }
